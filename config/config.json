@@ -1,0 +1,6 @@
+{
+    "database": "mysql",
+    "username": "ceiba",
+    "password": "ceiba",
+    "host": "localhost"
+}
